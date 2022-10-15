@@ -1,0 +1,76 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #212121;
+    line-height: 1.88;
+}
+.logo {
+    font-family: 'Raleway';
+    color:black;
+    text-decoration: none;
+}
+.logo span {
+    color: #2196F3;
+}
+.header-contact {
+    color:#757575;
+    text-decoration: none;
+    line-height: 1.17;
+}
+h1 {
+    color: white;
+}
+figcaption > p {
+    color: #757575;
+}
+.b-portfolio {
+    cursor: pointer;
+    text-align: center;
+    background: #F5F4FA;
+    border-radius: 4px;
+}
+.b-portfolio:hover {
+    background-color: #2196F3;
+    color: #FFFFFF;
+}
+li {
+    list-style-type: none;
+}
+img {
+    width:auto;
+    height: auto;
+}
+h4 {
+    font-size: 18px;
+    line-height: 2;
+}
+footer, .banner {
+    background-color: #2F303A;
+}
+footer .logo {
+    color: #FFFFFF;
+    padding-left: 40px;
+}
+address {
+    font-style: normal;
+}
+.postal {
+    color: #FFFFFF;
+}
+.footer-tel-no {
+    color: rgba(255, 255, 255, 0.6);
+    text-decoration: none;
+}
+.email {
+    color: rgba(255, 255, 255, 0.6);
+}
+.email-index {
+        color: rgba(255, 255, 255, 0.6);
+        text-decoration: none;
+}
+.link {
+    color: #212121;
+    text-decoration: none;
+}
+.link:hover {
+    color: #2196F3;
+}
