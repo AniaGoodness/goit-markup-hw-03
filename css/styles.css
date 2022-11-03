@@ -187,10 +187,7 @@ header {
 .section-t {
     padding-top: 94px;
 }
-.image-list {
-    margin: 0;
-    padding-bottom: 94px;
-}
+
 .card-container {
     max-width: 1200;
     box-sizing: content-box;
@@ -249,9 +246,14 @@ header {
 }
 .image-list {
     display:flex;
-    justify-content: space-around;
+    justify-content: center;
     padding-left: 0;
     padding-top: 50px;
+    margin: 0;
+    padding-bottom: 94px;
+}
+.image-simple-list-p {
+    margin: 0 15px;
 }
 figure {
     width: 270px;
@@ -276,6 +278,7 @@ figcaption {
     width: 270px;
     height: 260px;
 }
+
 .section-t {
     font-weight: 700;
     font-size: 36px;
